@@ -53,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/swea/1248/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="735">
+              <caret line="48" column="49" selection-start-line="39" selection-start-column="4" selection-end-line="48" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/swea/2805/solution.py" />
         <option value="$PROJECT_DIR$/swea/2805/input.txt" />
         <option value="$PROJECT_DIR$/baekjoon/1914/solution.py" />
+        <option value="$PROJECT_DIR$/swea/1248/solution.py" />
       </list>
     </option>
   </component>
@@ -369,8 +370,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/swea/1248/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="735">
+          <caret line="48" column="49" selection-start-line="39" selection-start-column="4" selection-end-line="48" selection-end-column="49" />
         </state>
       </provider>
     </entry>

@@ -26,7 +26,7 @@
 
 - 풀이 이미지 표현
 
-![](README.md.assets/tree.png)
+![](README.assets/tree.png)
 
 
 
