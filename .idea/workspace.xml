@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d405981f-f108-4925-991e-0bc7a3421dfb" name="Default Changelist" comment="" />
+    <list default="true" id="d405981f-f108-4925-991e-0bc7a3421dfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swea/2805/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/swea/2805/solution.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,47 +15,71 @@
     <session id="928653647">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="20" />
+          <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="7" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5042" />
-          <entry key="txt" value="112" />
+          <entry key="py" value="12087" />
+          <entry key="txt" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="112" />
-          <entry key="Python" value="5042" />
+          <entry key="PLAIN_TEXT" value="115" />
+          <entry key="Python" value="12087" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baekjoon/1914/solution.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swea/1861/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="449">
+              <caret line="72" column="39" lean-forward="true" selection-end-line="73" />
+              <folding>
+                <marker date="1614777406138" expanded="true" signature="396:974" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swea/1289/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/swea/1238_Contact/solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="36" column="12" lean-forward="true" selection-end-line="52" selection-end-column="38" />
+              <folding>
+                <marker date="1614773798504" expanded="true" signature="91:595" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,14 +107,20 @@
         <option value="$PROJECT_DIR$/swea/2805/input.txt" />
         <option value="$PROJECT_DIR$/baekjoon/1914/solution.py" />
         <option value="$PROJECT_DIR$/swea/1248/solution.py" />
+        <option value="$PROJECT_DIR$/baekjoon/17298/solution.py" />
+        <option value="$PROJECT_DIR$/swea/1868/input.txt" />
+        <option value="$PROJECT_DIR$/swea/1868/solution.py" />
+        <option value="$PROJECT_DIR$/swea/1238_Contact/solution.py" />
+        <option value="$PROJECT_DIR$/swea/8189/solution.py" />
+        <option value="$PROJECT_DIR$/swea/1861/solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2210" />
-    <option name="y" value="238" />
+    <option name="y" value="133" />
     <option name="width" value="1096" />
-    <option name="height" value="934" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -104,25 +137,19 @@
             <path>
               <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="1914" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+              <item name="1238_Contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="1929" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
-              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="2231" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+              <item name="2805" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
+  <component name="RunManager" selected="Python.solution (2)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/1289" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/1238_Contact" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/1289/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/1238_Contact/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,32 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/3499" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/1861" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/3499/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="problem-solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/2805" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/2805/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/1861/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,6 +237,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/17298" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/17298/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/1493" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/1868" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/1493/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/1868/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,19 +280,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.solution (4)" />
+      <item itemvalue="Python.solution (5)" />
       <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
-      <item itemvalue="Python.solution (3)" />
-      <item itemvalue="Python.solution (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.solution (4)" />
-        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
+        <item itemvalue="Python.solution (5)" />
+        <item itemvalue="Python.solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,8 +318,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -346,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/swea/2805/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="46" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swea/2805/output.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -370,13 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/swea/1289/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swea/1248/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -388,6 +401,93 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1868/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1868/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="3620" column="300" selection-start-line="3620" selection-start-column="300" selection-end-line="3620" selection-end-column="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1868/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/17298/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <marker date="1614171297982" expanded="true" signature="112:114" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/11316/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/8189/solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1238_Contact/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1861/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="594" column="16" selection-start-line="594" selection-start-column="16" selection-end-line="594" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1861/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1861/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="72" column="39" lean-forward="true" selection-end-line="73" />
+          <folding>
+            <marker date="1614777406138" expanded="true" signature="396:974" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1289/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/2805/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1238_Contact/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="12" lean-forward="true" selection-end-line="52" selection-end-column="38" />
+          <folding>
+            <marker date="1614773798504" expanded="true" signature="91:595" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
