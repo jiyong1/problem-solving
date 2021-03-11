@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d405981f-f108-4925-991e-0bc7a3421dfb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d405981f-f108-4925-991e-0bc7a3421dfb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,24 +12,25 @@
     <session id="928653647">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="20" />
+          <entry key="py" value="23" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -50,40 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swea/1861/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-              <folding>
-                <marker date="1614777406138" expanded="true" signature="396:974" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/swea/4008/solution.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swea/1289/solution.py">
+        <entry file="file://$PROJECT_DIR$/swea/3234/solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swea/1238_Contact/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1614773798504" expanded="true" signature="91:595" ph="..." />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -141,7 +111,30 @@
             <path>
               <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="1303" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
               <item name="swea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+              <item name="3234" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
+              <item name="4008" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -437,20 +430,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/swea/1861/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding>
-            <marker date="1614777406138" expanded="true" signature="396:974" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swea/1289/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baekjoon/1303/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-end-line="51" />
         </state>
       </provider>
     </entry>
@@ -465,7 +455,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swea/4008/solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/1861/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          <folding>
+            <marker date="1614777406138" expanded="true" signature="396:974" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swea/3234/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
